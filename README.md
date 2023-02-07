@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Postgres SQL and Nuxt.js**
 
-- 👨‍💻 All of my projects are available at [https://deepakprasad.com/portfolio](https://deepakprasad.com/portfolio)
+- 👨‍💻 All of my projects are available at [https://prasaddeepak.netlify.app/portfolio](https://prasaddeepak.netlify.app/portfolio)
 
 - 💬 Ask me about **Javascript with ES6, CSS3, HTML5, VueJS, ReactJS, NodeJS, MongoDB, Mysql, Wordpress, Photshop**
 
